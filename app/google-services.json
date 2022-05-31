@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "369213335060",
+    "firebase_url": "https://week6exe-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "week6exe",
+    "storage_bucket": "week6exe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369213335060:android:effcde5823ade0ba512901",
+        "android_client_info": {
+          "package_name": "com.example.week6practical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369213335060-9e6t8d4d9lddlt9cpquou837s6o1o9c5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWdHGWer9LScMF0U1zw5kpuIMBaWmIRHg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369213335060-9e6t8d4d9lddlt9cpquou837s6o1o9c5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
